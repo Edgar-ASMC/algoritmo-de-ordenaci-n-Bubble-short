@@ -1,0 +1,11 @@
+# ninja log v6
+6	489	7488453321258292	CMakeFiles/blubble_sort.dir/trabajo_en_clase.cpp.obj	c2b0fcc34d98d18f
+3	493	7488453321228282	CMakeFiles/blubble_sort.dir/main.cpp.obj	7b78ab32b46aa029
+6	48	7488453687450360	CMakeFiles/blubble_sort.dir/trabajo_en_clase.cpp.obj	c2b0fcc34d98d18f
+48	135	7488453687880399	blubble_sort.exe	5588bdc8c159be14
+6	464	7488454313703590	CMakeFiles/blubble_sort.dir/main.cpp.obj	7b78ab32b46aa029
+464	552	7488454318283575	blubble_sort.exe	5588bdc8c159be14
+5	466	7488455697229590	CMakeFiles/blubble_sort.dir/main.cpp.obj	7b78ab32b46aa029
+466	554	7488455701829539	blubble_sort.exe	5588bdc8c159be14
+6	482	7488456025080262	CMakeFiles/blubble_sort.dir/main.cpp.obj	7b78ab32b46aa029
+483	573	7488456029850753	blubble_sort.exe	5588bdc8c159be14
